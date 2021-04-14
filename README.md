@@ -9,7 +9,7 @@
   
 ### leia isto -- pt-br
 - 👋 eae cara, sou o @kkauaon
-- 👀 eu to quero fazer jogo e app
+- 👀 eu to fazendo jogo ruim e app (talvez bons)
 - 🌱 to aprendendo **C#** ainda
 - 💞️ **não** quero colaborar
 - 📫 fala comigo ai:
