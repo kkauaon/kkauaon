@@ -1,4 +1,5 @@
 #### JavaScript, C#, React, MongoDB, Firebase
+#### Java programming?!?!??
 #### Games: 🤔🤔🤔
 #### Discord: **kauã#3005**
 #### Twitter: [@kkauabr](https://twitter.com/kkauabr)
