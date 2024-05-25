@@ -1,9 +1,7 @@
 <h1 align="center">Olá 👋</h1>
 <h3 align="center"><i>Desenvolvedor em formação</i> 👨‍💻🖥</h3>
 
-- 🔭 Estou trabalhando atualmente em [Wemus](https://wemus.site)
-
-- 🌱 Estou estudando atualmente **Jetpack Compose, Arduino, Java**
+- 🌱 Estou estudando atualmente **Java**
 
 - 📫 Contate-me: **kkauaon@gmail.com**
 
