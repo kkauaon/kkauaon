@@ -2,7 +2,7 @@
 <h3 align="center"><i>Entusiasta de desenvolvimento de software e estudante dedicado</i> 👨‍💻🖥</h3>
 
 <p align="center">
-  Atualmente no quinto semestre do curso técnico em Informática no IFCE, estou imerso no universo da programação, sempre em busca de novos desafios e aprendizados.
+  Atualmente no sexto semestre do curso técnico em Informática no IFCE, estou imerso no universo da programação, sempre em busca de novos desafios e aprendizados.
   Tenho um interesse especial por desenvolvimento mobile e também explorando o back-end com Supabase.
 </p>
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">💡 Sobre Mim:</h3>
 
-- 🌱 Cursando o 5º semestre do Técnico em Informática no IFCE.
+- 🌱 Cursando o 6º semestre do Técnico em Informática no IFCE.
 - 🚀 Focado em aprimorar minhas habilidades em desenvolvimento web e mobile.
 - 🧠 Atualmente aprendendo mais sobre:
     - Desenvolvimento back-end com **Node.js** e **MongoDB**.
@@ -45,10 +45,7 @@
 
 <h3 align="left">📫 Como me encontrar:</h3>
 <p align="left">
-  <a href="mailto:kaua.sousa63@aluno.ifce.edu.br" target="_blank">
-    <img src="https://img.shields.io/badge/Email%20Institucional-kaua.sousa63@aluno.ifce.edu.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Institucional"/>
-  </a>
-  <a href="https://instagram.com/kkauabr_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-kkauabr__-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="mailto:kkauaon@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-kkauaon@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
