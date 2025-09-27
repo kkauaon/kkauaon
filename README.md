@@ -20,7 +20,7 @@
 - 🌱 Cursando o 6º semestre do Técnico em Informática no IFCE.
 - 🚀 Focado em aprimorar minhas habilidades em desenvolvimento web e mobile.
 - 🧠 Atualmente aprendendo mais sobre:
-    - Desenvolvimento back-end com **Node.js** e **MongoDB**.
+    - Desenvolvimento back-end com **Node.js**.
     - Desenvolvimento mobile com **Flutter**.
     - Versionamento de código com **Git & GitHub**.
 - 🤔 Tenho interesse também em desenvolvimento de jogos com Unity.
@@ -31,11 +31,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
-  </p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+</p>
 
 <h3 align="left">🎯 Objetivos Futuros:</h3>
 
