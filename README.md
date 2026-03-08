@@ -20,15 +20,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kkauaon&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkauaon&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🎯 Objetivos
 
 - 🤝 Contribuir com **projetos open-source**
@@ -39,6 +30,6 @@
 
 ## 📫 Contato
 
-<a href="mailto:kkauaon@gmail.com">
-<img src="https://img.shields.io/badge/Email-kkauaon@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kkauabr/)
+&nbsp;&nbsp;
+[![E-mail](https://img.shields.io/badge/Email-kkauaon@gmail.com-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:kkauaon@gmail.com)
