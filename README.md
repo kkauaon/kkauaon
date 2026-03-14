@@ -2,8 +2,8 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 **Técnico em Informática** formado pelo **IFCE**
-- 🏫 Atualmente cursando **Sistemas e Mídias Digitais na UFC** *(1º semestre)*
+- 🎓 **Técnico em Informática** formado pelo **Instituto Federal do Ceará (IFCE)**
+- 🏫 Atualmente cursando **Sistemas e Mídias Digitais na Universidade Federal do Ceará (UFC)** *(1º semestre)*
 - 💡 Interesses: **Desenvolvimento Web & Mobile**
 - 🧠 Sempre aprendendo novas tecnologias e criando projetos próprios
 - 🎮 Também exploro **desenvolvimento de jogos com Unity e criação de APIs**
